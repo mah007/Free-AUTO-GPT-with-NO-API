@@ -1,0 +1,5 @@
+- The api should be easy to install and use.
+- The api should support multiple users and messages.
+- The api should have good documentation and support.
+- The api should be secure and reliable.
+- The api should be compatible with Python.
